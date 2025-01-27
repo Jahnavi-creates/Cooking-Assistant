@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Chicken Biryani",
+    "ingredients": ["Chicken", "Rice", "Spices", "Yogurt"],
+    "recipe": "Marinate chicken with spices and yogurt. Cook rice and layer with chicken. Simmer until done.",
+    "time": "1.5 hours",
+    "nutrition": { "Calories": 450, "Protein": 30, "Fat": 12 }
+  },
+  {
+    "name": "Samosa",
+    "ingredients": ["Potatoes", "Flour", "Spices", "Peas"],
+    "recipe": "Prepare dough. Cook filling with potatoes and peas. Shape and deep fry samosas.",
+    "time": "45 minutes",
+    "nutrition": { "Calories": 250, "Protein": 5, "Fat": 10 }
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "ingredients": [
+      "Paneer - 200g, cubed",
+      "Butter - 2 tbsp",
+      "Tomato puree – 1 cup",
+      "Heavy cream – ½ cup",
+      "Cashew paste – 2 tbsp",
+      "Spices: Garam masala (1 tsp), red chili powder (1 tsp), turmeric (½ tsp)",
+      "Ginger-garlic paste – 1 tsp",
+      "Salt to taste",
+      "Coriander leaves for garnish"
+    ],
+    "recipe": " ",
+    "time": "40 minutes",
+    "nutrition": { "Calories": 340, "Protein": 10, "Carbs": 12, "Fat": 28 }
+  },
+  {
+    "name": "Masala Dosa",
+    "ingredients": [
+      "Dosa batter – 2 cups",
+      "Potatoes – 3, boiled and mashed",
+      "Onion – 1, chopped",
+      "Green chilies – 2, chopped",
+      "Curry leaves – 8",
+      "Turmeric powder – ½ tsp",
+      "Mustard seeds – 1 tsp",
+      "Oil – 2 tbsp"
+    ],
+    "recipe": "Heat oil in a pan, add mustard seeds and curry leaves. Sauté onions, chilies, and turmeric powder. Add mashed potatoes and cook for 5 minutes. Prepare dosas on a skillet, add the potato filling, and fold. Serve with chutney and sambar.",
+    "time": "30 minutes",
+    "nutrition": { "Calories": 150, "Protein": 5, "Carbs": 25, "Fat": 4 }
+  },
+  {
+    "name": "Rajma",
+    "ingredients": [
+      "Kidney beans – 1 cup",
+      "Tomatoes – 2, pureed",
+      "Onion – 1, finely chopped",
+      "Ginger-garlic paste – 1 tsp",
+      "Spices: Garam masala (1 tsp), chili powder (1 tsp), turmeric (½ tsp)",
+      "Oil – 2 tbsp",
+      "Salt to taste"
+    ],
+    "recipe": "Soak kidney beans overnight and pressure cook until soft. Sauté onions, ginger-garlic paste, and spices in oil. Add tomato puree and cook until thickened. Mix in cooked kidney beans, simmer for 20 minutes, and serve with rice.",
+    "time": "1 hour",
+    "nutrition": { "Calories": 210, "Protein": 8, "Carbs": 32, "Fat": 6 }
+  },
+  {
+    "name": "Aloo Paratha",
+    "ingredients": [
+      "Wheat flour – 2 cups",
+      "Potatoes – 3, boiled and mashed",
+      "Green chilies – 2, chopped",
+      "Coriander leaves – 2 tbsp, chopped",
+      "Cumin powder – 1 tsp",
+      "Salt – to taste",
+      "Butter – for cooking"
+    ],
+    "recipe": "Prepare dough with wheat flour and water. Mix mashed potatoes with spices and herbs. Roll out the dough, stuff with potato mixture, and cook on a hot skillet with butter until golden. Serve with yogurt or pickle.",
+    "time": "45 minutes",
+    "nutrition": { "Calories": 220, "Protein": 6, "Carbs": 34, "Fat": 6 }
+  },
+  {
+    "name": "Butter Chicken",
+    "ingredients": [
+      "Chicken – 500g",
+      "Tomato puree – 1 cup",
+      "Butter – 2 tbsp",
+      "Cream – ½ cup",
+      "Cashew paste – 2 tbsp",
+      "Spices: Garam masala (1 tsp), chili powder (1 tsp), turmeric (½ tsp)",
+      "Ginger-garlic paste – 1 tsp"
+    ],
+    "recipe": "Marinate chicken with yogurt and spices. Cook chicken until done. Prepare gravy with butter, ginger-garlic paste, tomato puree, and cashew paste. Add chicken, cream, and simmer for 10 minutes. Serve hot with naan or rice.",
+    "time": "50 minutes",
+    "nutrition": { "Calories": 450, "Protein": 28, "Carbs": 10, "Fat": 32 }
+  },
+  {
+    "name": "Chole",
+    "ingredients": [
+      "Chickpeas – 1 cup, soaked overnight",
+      "Tomatoes – 2, pureed",
+      "Onion – 1, finely chopped",
+      "Ginger-garlic paste – 1 tsp",
+      "Spices: Chole masala (1 tsp), chili powder (1 tsp), turmeric (½ tsp)",
+      "Oil – 2 tbsp"
+    ],
+    "recipe": "Pressure cook chickpeas until soft. Sauté onions, ginger-garlic paste, and spices in oil. Add tomato puree and cook until thickened. Mix in chickpeas, simmer for 20 minutes, and serve with rice or bhature.",
+    "time": "1 hour",
+    "nutrition": { "Calories": 230, "Protein": 9, "Carbs": 35, "Fat": 5 }
+  },
+  {
+    "name": "Pav Bhaji",
+    "ingredients": [
+      "Mixed vegetables (potatoes, peas, carrots) – 2 cups",
+      "Tomatoes – 2, finely chopped",
+      "Onion – 1, finely chopped",
+      "Butter – 2 tbsp",
+      "Pav bhaji masala – 2 tsp",
+      "Pav buns – 4"
+    ],
+    "recipe": "Boil and mash vegetables. Sauté onions, tomatoes, and pav bhaji masala in butter. Add mashed vegetables and simmer. Toast pav buns with butter and serve with bhaji.",
+    "time": "40 minutes",
+    "nutrition": { "Calories": 300, "Protein": 7, "Carbs": 45, "Fat": 10 }
+  },
+  {
+    "name": "Dal Tadka",
+    "ingredients": [
+      "Toor dal – 1 cup",
+      "Tomato – 1, chopped",
+      "Onion – 1, chopped",
+      "Garlic – 2 cloves, minced",
+      "Ghee – 2 tbsp",
+      "Cumin seeds – 1 tsp",
+      "Spices: Turmeric (½ tsp), red chili powder (½ tsp)",
+      "Salt to taste"
+    ],
+    "recipe": "Pressure cook dal with turmeric and salt. Prepare tadka by heating ghee, sautéing cumin seeds, garlic, onions, tomatoes, and spices. Mix tadka into dal and simmer for 5 minutes. Serve with rice or roti.",
+    "time": "30 minutes",
+    "nutrition": { "Calories": 180, "Protein": 7, "Carbs": 22, "Fat": 6 }
+  }
+]
